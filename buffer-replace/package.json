@@ -1,0 +1,13 @@
+{
+  "name": "buffer-replace",
+  "version": "1.0.0",
+  "repository": "juliangruber/buffer-replace",
+  "description": "Like String#replace but for buffers",
+  "license": "MIT",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "devDependencies": {
+    "tap": "^5.7.2"
+  }
+}

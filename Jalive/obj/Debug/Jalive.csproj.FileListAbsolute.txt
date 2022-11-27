@@ -1,0 +1,15 @@
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\bin\Debug\Jalive.exe.config
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\bin\Debug\Jalive.exe
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\bin\Debug\Jalive.pdb
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.csproj.AssemblyReference.cache
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.Properties.Resources.resources
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.csproj.GenerateResource.cache
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.csproj.CoreCompileInputs.cache
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.csproj.CopyComplete
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.exe
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.pdb
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.Jalive.resources
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.SubForms.Binder.resources
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.SubForms.Output.resources
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RookieThaGawd\source\repos\Jalive\Jalive\obj\Debug\Jalive.csproj.Fody.CopyLocal.cache

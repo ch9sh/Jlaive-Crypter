@@ -3,7 +3,7 @@
 Jlaive is an antivirus evasion tool that can convert executables into undetectable batch files. Obfuscated .NET assemblies are not guaranteed to work.
 
 <h1 align="center">
-    <b><a href="https://t.me/kixx007">Telegram: @Kixx007</a></b>
+    <b><a href="https://t.me/jlaive">Telegram: @jlaive</a></b>
 </h1>
 
 ![image](https://user-images.githubusercontent.com/119069565/204140501-79581722-5d97-41f5-a1dc-690812c8b17b.png)

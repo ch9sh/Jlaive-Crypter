@@ -4,7 +4,7 @@ Jlaive is an antivirus evasion tool that can convert executables into undetectab
 
 Telegram : @jlaive
 ![image](https://user-images.githubusercontent.com/119069565/204140501-79581722-5d97-41f5-a1dc-690812c8b17b.png)
-![image](https://media.discordapp.net/attachments/959762900443070485/987900379863846962/Untitled.png)
+
 
 ## Features
 - .NET/Native (x64) support
@@ -44,3 +44,4 @@ SharpUnhooker: [https://github.com/GetRektBoy724/SharpUnhooker](https://github.c
 
 ## Disclaimer
 This project was made for educational purposes only. I am not responsible if you choose to use this illegally/maliciously.
+![image](https://media.discordapp.net/attachments/959762900443070485/987900379863846962/Untitled.png)
